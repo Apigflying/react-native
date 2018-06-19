@@ -27,7 +27,7 @@ export default class App extends Component<any, any>{
   render () {
     return (
       <View style={style.container}>
-        <Text>ndsafd</Text>
+        <Text>fffffffffff</Text>
         <Button>Start</Button>
         <View>
           <View style={{ padding: 10 }}>
